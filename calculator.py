@@ -1,5 +1,7 @@
-# 기본 계산기
+# 기본 계산기 수정
 def add(a, b);
 	return a+b
-ef subtract (a, b);
+def subtract (a, b);
 	return a-b
+def multiply(a, b):
+	return a*b
